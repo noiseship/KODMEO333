@@ -1,0 +1,10 @@
+# GitHub User Finder — Dependencies
+# Python 3.7+
+# No external packages required.
+# Uses only the Python standard library:
+#   - tkinter    (GUI)
+#   - json       (favorites storage)
+#   - os         (file system)
+#   - urllib     (GitHub API requests)
+#   - webbrowser (open profile URLs)
+#   - unittest   (tests)
